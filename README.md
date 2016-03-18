@@ -1,2 +1,1 @@
-# angular-d3-simple-pie
-Simple pie chart directive for Angular
+# A Simple D3.js Pie Chart Directive for Angular
